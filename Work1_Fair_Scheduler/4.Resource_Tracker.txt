@@ -1,0 +1,13 @@
+Total resource allocated for Hadoop clsuter 	540.0 vCPU 	1080.0 GB memory
+Resources (vCPU, Memory) unused in every commit (10000) milli seconds
+0	526.0	1064.0
+1	525.0	1065.5
+2	525.0	1065.5
+3	525.0	1064.5
+4	527.0	1066.5
+5	529.0	1067.5
+6	530.0	1068.5
+7	530.0	1068.5
+8	532.0	1071.0
+9	532.0	1071.0
+10	540.0	1080.0
